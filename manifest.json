@@ -1,0 +1,22 @@
+{
+  "name": "TN49 Gadgetz Lucky Spin",
+  "short_name": "TN49 Spin",
+  "description": "TN49 Gadgetz Premium Lucky Spin",
+  "start_url": "/tn49-logo/",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#FFD700",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
